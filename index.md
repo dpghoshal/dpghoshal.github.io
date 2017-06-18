@@ -2,7 +2,9 @@
 layout: default
 ---
 
-![](/images/DPG.jpg)
+<img src="/images/DPG.jpg"
+     alt=""
+     width="50%">
 
 I am currently pursuing my PhD in the [Department of Electrical and Computer Engineering](http://www.mcgill.ca/ece/) at [McGill University](http://www.mcgill.ca/).  
 My supervisor is Prof. Hannah Michalska.  
