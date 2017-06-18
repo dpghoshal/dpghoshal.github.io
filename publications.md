@@ -32,4 +32,4 @@ permalink: /publications/
 
 * * *
 
-[Back](./)
+[Back](/)
