@@ -10,4 +10,7 @@ I am currently pursuing my PhD in the [Department of Electrical and Computer Eng
 My supervisor is Prof. Hannah Michalska.  
 My research area is Control Systems.
 
-[Link to test page](test-page)
+You can contact me through **email**:  
+ghoshaldp@gmail.com  
+debarshi.ghoshal@mail.mcgill.ca  
+dghoshal.2014@iitkalumni.org  
