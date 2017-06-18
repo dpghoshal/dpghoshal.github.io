@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/images/DPG.jpg"
+<img src="/images/DPG_foreground.png"
      alt=""
      width="50%">
 
