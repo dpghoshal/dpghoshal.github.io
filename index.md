@@ -17,7 +17,7 @@ I received my Bachelors degree in Electrical Engineering from [**Jadavpur Univer
 
 Here are inks to my:  
 * [Curriculum Vitae](/docs/dpg_cv.pdf)  
-* Publications  
+* [Publications](publications)  
 * Past Research Experience
 
 My online presence:  
