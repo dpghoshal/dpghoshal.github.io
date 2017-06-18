@@ -13,6 +13,8 @@ My research area is Control Systems.
 I completed my Master’s degree in Electrical Engineering from [Indian Institute of Technology Kanpur](http://www.iitk.ac.in/) in 2014.  
 My thesis topic was “Robot Learning from a Human Expert through Modified Kinesthetic Teaching”.
 
+I received my Bachelors degree in Electrical Engineering from [Jadavpur University](http://www.jaduniv.edu.in/) in 2011.
+
 You can contact me through **email**:  
 ghoshaldp@gmail.com  
 debarshi.ghoshal@mail.mcgill.ca  
