@@ -35,7 +35,7 @@ _The work was published in an international journal._
 
 1. **Final\-year Elective Project** at **Department of Electrical Engineering, Jadavpur University:**
 _**Internal Model Control**_  
-**Description:** Internal Model Control (IMC) is an interesting approach to Control Systems which differs from the traditional feedback control. Considering a typical first-order plant transfer function with time-delay, I designed a controller based on IMC scheme, and compared its performance with that of classic Ziegler\–Nichols tuning based PID controller. I also investigated the robustness of the IMC controller by introducing real-world problems such as noise and process-model mismatch. Further performance evaluation of the IMC controller was done by considering higher-order plant transfer functions.  
+**Description:** Internal Model Control (IMC) is an interesting approach to Control Systems which differs from the traditional feedback control. Considering a typical first-order plant transfer function with time-delay, I designed a controller based on IMC scheme, and compared its performance with that of classic Ziegler–Nichols tuning based PID controller. I also investigated the robustness of the IMC controller by introducing real-world problems such as noise and process-model mismatch. Further performance evaluation of the IMC controller was done by considering higher-order plant transfer functions.  
 Project Reports (1 & 2) 
 
 * * * 
