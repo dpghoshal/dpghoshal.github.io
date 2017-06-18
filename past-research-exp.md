@@ -17,7 +17,7 @@ _**Waypoint Navigation System for Unmanned Aerial Vehicles (UAV)**_
 SUPERVISOR: Dr. Seetharama M. Bhat  
 (Chairman, Department of Aerospace Engineering, IISc.)  
 **Description:** I worked on Waypoint navigation system of Unmanned Aerial Vehicles (UAV). I acquainted myself with the aerodynamics of UAVs, and designed a controller consisting of navigation, guidance, and control loops about a dynamic model of a UAV. For evaluation, a Matlab Simulink model was built which yielded fairly good result. I was also involved in setting up the Hardware-in-the-Loop simulation system of Kestrel Autopilot System. The simulation was implemented successfully.  
-IISc Project Report
+[IISc Project Report](/docs/DPG_IISc_report.pdf)
 
 1. **Research Project:**  
 _**Neural Network Approach for Automatic Number Plate Recognition (ANPR)**_  
@@ -36,7 +36,7 @@ _The work was published in an international journal._
 1. **Final\-year Elective Project** at **Department of Electrical Engineering, Jadavpur University:**
 _**Internal Model Control**_  
 **Description:** Internal Model Control (IMC) is an interesting approach to Control Systems which differs from the traditional feedback control. Considering a typical first-order plant transfer function with time-delay, I designed a controller based on IMC scheme, and compared its performance with that of classic Ziegler–Nichols tuning based PID controller. I also investigated the robustness of the IMC controller by introducing real-world problems such as noise and process-model mismatch. Further performance evaluation of the IMC controller was done by considering higher-order plant transfer functions.  
-Project Reports (1 & 2) 
+Project Reports ([1](/docs/DPG_IMC_report_1.pdf) and [2](/docs/DPG_IMC_report_2.pdf)) 
 
 * * * 
 
