@@ -15,8 +15,8 @@ My thesis topic was “Robot Learning from a Human Expert through Modified Kines
 
 I received my Bachelors degree in Electrical Engineering from [**Jadavpur University**](http://www.jaduniv.edu.in/) in 2011.
 
-My online presence:
-[LinkedIn](https://www.linkedin.com/in/debarshi-patanjali-ghoshal-21840a22)
+My online presence:  
+[LinkedIn](https://www.linkedin.com/in/debarshi-patanjali-ghoshal-21840a22)  
 [ResearchGate](https://www.researchgate.net/profile/Debarshi_Ghoshal)
 
 You can contact me through **email**:  
