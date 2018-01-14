@@ -19,6 +19,7 @@ Here are inks to my:
 * [Curriculum Vitae](/docs/dpg_cv.pdf)  
 * [Publications](publications)  
 * [Past Research Experience](past-research-exp)
+* [Teaching Experience](teaching-exp)
 
 My online presence:  
 [LinkedIn](https://www.linkedin.com/in/debarshi-patanjali-ghoshal-21840a22)  
