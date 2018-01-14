@@ -24,7 +24,6 @@ Here are inks to my:
 My online presence:  
 [LinkedIn](https://www.linkedin.com/in/debarshi-patanjali-ghoshal-21840a22)  
 [ResearchGate](https://www.researchgate.net/profile/Debarshi_Ghoshal)  
-[GitHub](https://github.com/dpghoshal)  
 [Google Scholar](https://scholar.google.com/citations?user=p5brCxoAAAAJ)
 
 You can contact me through **email**:  
