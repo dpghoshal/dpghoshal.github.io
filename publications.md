@@ -6,7 +6,7 @@ permalink: /publications/
 ## Publications
 
 1. **Debarshi Patanjali Ghoshal**, Hannah Michalska. _**Double-Sided Kernel Observer for Linear Time-Varying Systems**_. IEEE Conference on Control Technology and Applications (CCTA 2017)  
-[PDF](/docs/Ghoshal2017c.pdf)  
+[Full-text (PDF)](/docs/Ghoshal2017c.pdf)  
 **Abstract:** A double-sided input-output kernel functional representation is developed for the class of totally observable linear time-varying systems with inputs. The double-sided kernel representation is immediately applicable as part of a non-asymptotic state observer for observable LTV systems. In the absence of output measurement noise the observer provides exact state values of the system state in arbitrarily short time. It also shares the usual superior features of algebraic observers such as independence of the initial conditions of the system and good noise attenuation properties. Other advantages of the double-sided input-output kernel functional representation of linear systems are elucidated as the concept can be employed to construct state and parameter estimators for flat nonlinear systems.
 
 1. **Debarshi Patanjali Ghoshal**, Kumar Gopalakrishnan, Hannah Michalska. _**Kernel-Based Adaptive Multiple Model Target Tracking**_. IEEE Conference on Control Technology and Applications (CCTA 2017)  
