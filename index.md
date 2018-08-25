@@ -15,7 +15,7 @@ My thesis topic was “Robot Learning from a Human Expert through Modified Kines
 
 I received my Bachelors degree in Electrical Engineering from [**Jadavpur University**](http://www.jaduniv.edu.in/) in 2011.
 
-Here are inks to my:  
+Here are links to my:  
 * [Curriculum Vitae](/docs/dpg_cv.pdf)  
 * [Publications](publications)  
 * [Past Research Experience](past-research-exp)
