@@ -6,9 +6,11 @@ permalink: /publications/
 ## Publications
 
 1. Abhishek Pandey, **Debarshi Patanjali Ghoshal**, Hannah Michalska. _**Variational Approach to Joint Linear Model and State Estimation**_. The 2018 American Control Conference (ACC 2018)  
+[Full-text (PDF)](/docs/Pandey2018.pdf)  
 **Abstract:** An approach similar to variational data assimilation is presented for simultaneous model and state estimation of linear systems from output measurement perturbed by large noise of unknown characteristic. Estimation can be carried out over time windows of arbitrary length and is based on a special kernel representation of a hypothetical linear model. A functional criterion is employed to assess the distance of a model to a data cloud. The reproducing kernel representation of the model is particularly advantageous as it permits a Hilbert subspace representation of the model sought. The approach is similar to variational data assimilation as it relies on the adjoint method for calculation of the gradient of the cost functional involved.
 
 1. Deepak Sridhar, **Debarshi Patanjali Ghoshal**, Hannah Michalska. _**B-Splines in Joint Parameter and State Estimation in Linear Time-Varying Systems**_. The 2018 American Control Conference (ACC 2018)  
+[Full-text (PDF)](/docs/Sridhar2018a.pdf)  
 **Abstract:** A kernel functional representation of linear time-varying systems is employed in conjunction with B-spline functional approximation techniques to construct non-asymptotic state and parameter estimators for LTV systems. Total observability of the estimated system must be assumed. Practical identifiability conditions for parametric estimation are also stated. In the absence of output measurement noise the observer provides almost exact reconstruction of the system state and delivers high fidelity functional estimates of the time varying system parameters. It also shares the usual superior features of algebraic observers such as independence of the initial conditions of the system and good noise attenuation properties. Other advantages of the kernel and B-spline based identification of linear time-varying systems are elucidated.
 
 1. **Debarshi Patanjali Ghoshal**, Hannah Michalska. _**Double-Sided Kernel Observer for Linear Time-Varying Systems**_. IEEE Conference on Control Technology and Applications (CCTA 2017)  
