@@ -6,9 +6,11 @@ layout: default
      alt=""
      width="50%">
 
-I am currently pursuing my PhD in the [Department of Electrical and Computer Engineering](https://www.mcgill.ca/ece/) at [**McGill University**](https://www.mcgill.ca/).  
+I am pursuing my PhD in the [Department of Electrical and Computer Engineering](https://www.mcgill.ca/ece/) at [**McGill University**](https://www.mcgill.ca/).  
 My supervisor is Prof. Hannah Michalska.  
 My research area is Control Systems.
+
+Currently I am also working at [Aerial Technologies](https://www.aerial.ai) as a Research Scientist Intern, where I get to apply my domain Knowledge of Systems Theory to solve practical Machine Learning problems.
 
 I completed my Master's degree in Electrical Engineering from [**Indian Institute of Technology Kanpur**](https://www.iitk.ac.in/) in 2014.  
 My thesis topic was “Robot Learning from a Human Expert through Modified Kinesthetic Teaching”.
