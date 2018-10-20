@@ -10,7 +10,7 @@ I am pursuing my PhD in the [Department of Electrical and Computer Engineering](
 My supervisor is Prof. Hannah Michalska.  
 My research area is Control Systems.
 
-Currently I am also working at [**Aerial Technologies**](https://www.aerial.ai) as a Research Scientist Intern, where I get to apply my domain knowledge of Systems Theory to solve practical Artificial Intelligence/Machine Learning problems.
+Currently I am also working at [**Aerial Technologies**](https://www.aerial.ai) as a Research Scientist Intern, where I get to apply my domain knowledge of Systems Theory to solve practical problems Artificial Intelligence/Machine Learning.
 
 I completed my Master's degree in Electrical Engineering from [**Indian Institute of Technology Kanpur**](https://www.iitk.ac.in/) in 2014.  
 My thesis topic was “Robot Learning from a Human Expert through Modified Kinesthetic Teaching”.
