@@ -24,7 +24,7 @@ Here are links to my:
 * [Teaching Experience](teaching-exp)
 
 My online presence:  
-[LinkedIn](https://www.linkedin.com/in/debarshi-patanjali-ghoshal-21840a22)  
+[LinkedIn](https://www.linkedin.com/in/dpghoshal)  
 [ResearchGate](https://www.researchgate.net/profile/Debarshi_Ghoshal)  
 [Google Scholar](https://scholar.google.com/citations?user=p5brCxoAAAAJ)
 
