@@ -29,6 +29,4 @@ My online presence:
 [Google Scholar](https://scholar.google.com/citations?user=p5brCxoAAAAJ)
 
 You can contact me through **email**:  
-ghoshaldp@gmail.com  
 debarshi.ghoshal@mail.mcgill.ca  
-dghoshal.2014@iitkalumni.org  
