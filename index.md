@@ -21,4 +21,4 @@ Here are links to my:
 * [Past Research Experience](past-research-exp)
 * [Teaching Experience](teaching-exp)
 
-Get in touch: [Email](debarshi.ghoshal@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/dpghoshal)
+Get in touch: [Email](mailto:debarshi.ghoshal@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/dpghoshal)
