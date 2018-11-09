@@ -21,10 +21,4 @@ Here are links to my:
 * [Past Research Experience](past-research-exp)
 * [Teaching Experience](teaching-exp)
 
-My online presence:  
-[LinkedIn](https://www.linkedin.com/in/dpghoshal)  
-[ResearchGate](https://www.researchgate.net/profile/Debarshi_Ghoshal)  
-[Google Scholar](https://scholar.google.com/citations?user=p5brCxoAAAAJ)
-
-You can contact me through **email**:  
-debarshi.ghoshal@mail.mcgill.ca  
+Get in touch: [Email](debarshi.ghoshal@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/dpghoshal)
