@@ -68,6 +68,17 @@ SUPERVISOR: Dr. Smita Sadhu
 </li>
 <br>
 
+<li>
+<strong>Final-year Elective Project</strong> at <strong>Department of Electrical Engineering, Jadavpur University:</strong>
+<br>
+<em><strong>Internal Model Control</strong></em>
+<br>
+<strong>Description:</strong> Internal Model Control (IMC) is an interesting approach to Control Systems which differs from the traditional feedback control. Considering a typical first-order plant transfer function with time-delay, I designed a controller based on IMC scheme, and compared its performance with that of classic Ziegler–Nichols tuning based PID controller. I also investigated the robustness of the IMC controller by introducing real-world problems such as noise and process-model mismatch. Further performance evaluation of the IMC controller was done by considering higher-order plant transfer functions.
+<br>
+ Project Reports: <a href="../docs/DPG_IMC_report_1.pdf">1</a> and <a href="../docs/DPG_IMC_report_2.pdf">2</a> 
+</li>
+<br>
+
 
 </ol>
 </div>
@@ -75,10 +86,7 @@ SUPERVISOR: Dr. Smita Sadhu
 
 
 
-1. **Final\-year Elective Project** at **Department of Electrical Engineering, Jadavpur University:**
-_**Internal Model Control**_  
-**Description:** Internal Model Control (IMC) is an interesting approach to Control Systems which differs from the traditional feedback control. Considering a typical first-order plant transfer function with time-delay, I designed a controller based on IMC scheme, and compared its performance with that of classic Ziegler–Nichols tuning based PID controller. I also investigated the robustness of the IMC controller by introducing real-world problems such as noise and process-model mismatch. Further performance evaluation of the IMC controller was done by considering higher-order plant transfer functions.  
-Project Reports: [1](/docs/DPG_IMC_report_1.pdf) and [2](/docs/DPG_IMC_report_2.pdf) 
+  
 
 * * * 
 
