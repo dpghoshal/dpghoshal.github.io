@@ -56,6 +56,14 @@ Debarshi Patanjali Ghoshal, Hannah Michalska. <em><strong>Double-sided kernel ob
 </li>
 <br>
 
+<li>
+Debarshi Patanjali Ghoshal, Kumar Gopalakrishnan, Hannah Michalska. <em><strong>Kernel-based adaptive multiple model target tracking<em><strong>. IEEE Conference on Control Technology and Applications (CCTA 2017)
+<br>
+<a href="../docs/Ghoshal2017d.pdf">Full-text (PDF)</a>
+<br>
+<strong>Abstract:</strong> The novel adaptive multiple-model target tracking algorithm presented here employs a non-asymptotic state and parameter estimator whose design hinges on a non-standard integral system representation. The same estimator can be used for target maneuver detection and isolation and hence constitutes the principal ingredient of the tracking algorithm. The algorithm does not maintain a model bank, but creates and identifies new models in an attempt to best track the measurement data. Such an approach is rendered uniquely possible by the fact that the state and parameter estimator is essentially dead-beat. Practical model identifiability, persistent excitation condition for the measured signal are discussed. Although this first version of the algorithm is deterministic and employs threshold-based maneuver detection, it exhibits good robustness with respect to Gaussian measurement noise.
+</li>
+<br>
 
 
 
@@ -63,9 +71,6 @@ Debarshi Patanjali Ghoshal, Hannah Michalska. <em><strong>Double-sided kernel ob
 </ol>
 </div>
 
-1. Debarshi Patanjali Ghoshal, Kumar Gopalakrishnan, Hannah Michalska. _**Kernel-based adaptive multiple model target tracking**_. IEEE Conference on Control Technology and Applications (CCTA 2017)  
-[Full-text (PDF)](/docs/Ghoshal2017d.pdf)  
-**Abstract:** The novel adaptive multiple-model target tracking algorithm presented here employs a non-asymptotic state and parameter estimator whose design hinges on a non-standard integral system representation. The same estimator can be used for target maneuver detection and isolation and hence constitutes the principal ingredient of the tracking algorithm. The algorithm does not maintain a model bank, but creates and identifies new models in an attempt to best track the measurement data. Such an approach is rendered uniquely possible by the fact that the state and parameter estimator is essentially dead-beat. Practical model identifiability, persistent excitation condition for the measured signal are discussed. Although this first version of the algorithm is deterministic and employs threshold-based maneuver detection, it exhibits good robustness with respect to Gaussian measurement noise.
 
 1. Debarshi Patanjali Ghoshal, Kumar Gopalakrishnan, Hannah Michalska. _**Algebraic parameter estimation using kernel representation of linear systems**_. The 20th World Congress of the International Federation of Automatic Control (IFAC 2017)  
 [Full-text (PDF)](/docs/Ghoshal2017b.pdf)  
