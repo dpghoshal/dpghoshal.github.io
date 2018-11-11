@@ -102,11 +102,11 @@ Debarshi Patanjali Ghoshal, Sudeshna Das Gupta. <em><strong>Robust controller de
 <br>
 
 <li>
-Ankush Roy, Debarshi Patanjali Ghoshal.<em><strong>Number plate recognition for use in different countries using an improved segmentation</strong></em>. IEEE Technically Sponsored National Conference on Emerging Trends and Applications in Computer Science (NCETACS 2011)
+Ankush Roy, Debarshi Patanjali Ghoshal. <em><strong>Number plate recognition for use in different countries using an improved segmentation</strong></em>. IEEE Technically Sponsored National Conference on Emerging Trends and Applications in Computer Science (NCETACS 2011)
 <br>
 [Awarded <strong>Best-Paper</strong> of the Conference]  
 <br>
-<a href="../docs/PG_NCETACS.pdf">Full-text (PDF)</a>
+<a href="../docs/DPG_NCETACS.pdf">Full-text (PDF)</a>
 <br>
 <strong>Abstract:</strong> Automatic Number Plate Recognition (ANPR) is a real time embedded system which identifies the characters directly from the image of the license plate. It is an active area of research. ANPR systems are very useful to the law enforcement agencies as the need for Radio Frequency Identification tags and similar equipments are minimized. Since number plate guidelines are not strictly practiced everywhere, it often becomes difficult to correctly identify the non-standard number plate characters. In this paper we try to address this problem of ANPR by using a pixel based segmentation algorithm of the alphanumeric characters in the license plate. The non-adherence of the system to any particular country-specific standard & fonts effectively means that this system can be used in many different countries – a feature which can be especially useful for trans-border traffic e.g. use in country borders etc. Additionally, there is an option available to the end-user for retraining the Artificial Neural Network (ANN) by building a new sample font database. This can improve the system performance and make the system more efficient by taking relevant samples. The system was tested on 150 different number plates from various countries and an accuracy of 91.59% has been reached.
 </li>
