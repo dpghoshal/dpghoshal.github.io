@@ -65,16 +65,21 @@ Debarshi Patanjali Ghoshal, Kumar Gopalakrishnan, Hannah Michalska. <em><strong>
 </li>
 <br>
 
-
+<li>
+Debarshi Patanjali Ghoshal, Kumar Gopalakrishnan, Hannah Michalska. <em><strong>Algebraic parameter estimation using kernel representation of linear systems</strong></em>. The 20th World Congress of the International Federation of Automatic Control (IFAC 2017)
+<br>
+<a href="../docs/Ghoshal2017b.pdf">Full-text (PDF)</a>
+<br>
+<strong>Abstract:</strong> This work makes a contribution to algebraic parameter estimation as it proposes a simple alternative to the derivation of the algebraic estimation equations. The idea is based on a system representation in the form of an evaluation functional which does not exhibit any singularities in the neighbourhood of zero. Implied is the fact that algebraic estimation of parameters as well as system states can then truly be performed in arbitrary time and with uniform accuracy over the entire estimation interval. Additionally, the result offers a geometric representation of a linear system as a finite dimensional subspace of a Hilbert space, that readily suggests powerful noise rejection methods in which invariance plays a central role.
+</li>
+<br>
 
 
 </ol>
 </div>
 
 
-1. Debarshi Patanjali Ghoshal, Kumar Gopalakrishnan, Hannah Michalska. _**Algebraic parameter estimation using kernel representation of linear systems**_. The 20th World Congress of the International Federation of Automatic Control (IFAC 2017)  
-[Full-text (PDF)](/docs/Ghoshal2017b.pdf)  
-**Abstract:** This work makes a contribution to algebraic parameter estimation as it proposes a simple alternative to the derivation of the algebraic estimation equations. The idea is based on a system representation in the form of an evaluation functional which does not exhibit any singularities in the neighbourhood of zero. Implied is the fact that algebraic estimation of parameters as well as system states can then truly be performed in arbitrary time and with uniform accuracy over the entire estimation interval. Additionally, the result offers a geometric representation of a linear system as a finite dimensional subspace of a Hilbert space, that readily suggests powerful noise rejection methods in which invariance plays a central role.
+
 
 1. Debarshi Patanjali Ghoshal, Kumar Gopalakrishnan, Hannah Michalska. _**Using invariance to extract signal from noise**_. The 2017 American Control Conference (ACC 2017)  
 [Full-text (PDF)](/docs/Ghoshal2017.pdf)  
