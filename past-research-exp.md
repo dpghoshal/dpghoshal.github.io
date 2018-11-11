@@ -9,7 +9,9 @@ permalink: /past-research-exp/
 <ol>
 
 <li>
-<strong>M.Tech thesis</strong> at <strong>Department of Electrical Engineering, Indian Institute of Technology Kanpur:</strong> <em><strong>Robot Learning from a Human Expert through Modified Kinesthetic Teaching</strong></em>
+<strong>M.Tech thesis</strong> at <strong>Department of Electrical Engineering, Indian Institute of Technology Kanpur:</strong>
+<br>
+<em><strong>Robot Learning from a Human Expert through Modified Kinesthetic Teaching</strong></em>
 <br>
 SUPERVISOR: Dr. Laxmidhar Behera  
 <br>
@@ -21,20 +23,28 @@ SUPERVISOR: Dr. Laxmidhar Behera
 </li>
 <br>
 
+<li>
+<strong>Summer Internship</strong> at <strong>Indian Institute of Science, Bangalore:</strong>  
+<br>
+<em><strong>Waypoint Navigation System for Unmanned Aerial Vehicles (UAV)</strong></em>  
+<br>
+SUPERVISOR: Dr. Seetharama M. Bhat  
+<br>
+(Chairman, Department of Aerospace Engineering, IISc.)  
+<br>
+<strong>Description:</strong> I worked on Waypoint navigation system of Unmanned Aerial Vehicles (UAV). I acquainted myself with the aerodynamics of UAVs, and designed a controller consisting of navigation, guidance, and control loops about a dynamic model of a UAV. For evaluation, a Matlab Simulink model was built which yielded fairly good result. I was also involved in setting up the Hardware-in-the-Loop simulation system of Kestrel Autopilot System. The simulation was implemented successfully.
+<br>
+<a href="../docs/DPG_IISc_report.pdf">IISc Project Report</a>
+</li>
+<br>
+
+
 
 
 
 
 </ol>
 </div>
-  
-
-1. **Summer Internship** at **Indian Institute of Science, Bangalore:**  
-_**Waypoint Navigation System for Unmanned Aerial Vehicles (UAV)**_  
-SUPERVISOR: Dr. Seetharama M. Bhat  
-(Chairman, Department of Aerospace Engineering, IISc.)  
-**Description:** I worked on Waypoint navigation system of Unmanned Aerial Vehicles (UAV). I acquainted myself with the aerodynamics of UAVs, and designed a controller consisting of navigation, guidance, and control loops about a dynamic model of a UAV. For evaluation, a Matlab Simulink model was built which yielded fairly good result. I was also involved in setting up the Hardware-in-the-Loop simulation system of Kestrel Autopilot System. The simulation was implemented successfully.  
-[IISc Project Report](/docs/DPG_IISc_report.pdf)
 
 1. **Research Project:**  
 _**Neural Network Approach for Automatic Number Plate Recognition (ANPR)**_  
