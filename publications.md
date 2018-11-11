@@ -21,7 +21,11 @@ Debarshi Patanjali Ghoshal, Shaunak Sinha, Hannah Michalska. <em><strong>Algebra
 <strong>Abstract:</strong> A kernel-based approach is explored to enhance robustness of flatness-based nonlinear tracking control design for a synchronous generator machine. The design involves full system identification and nonlinear filtering of the system state, to  permit effective implementation of a nonlinear controller based on differential flatness of the model. The difficulty associated with robust implementations of flatness-based controllers resides in the necessity of fast and accurate estimation of higher order derivatives of the noisy, observed flat output. The recently developed forward-backward kernel estimation methods, lend themselves powerfully for this task. Two LTI surrogate models are used in parallel with the  nonlinear model of the machine to serve identification and filtering of the state, and are switched seemlessly to generate persistent excitation for the pupose of a complex nonlinear identification of all the system parameters. The approach does not require a separate start-up phase for identification purposes. The need for on-line adaptive identification and associated re-tuning of the controller is detected and implemented during full operation of the machine. Neither the identification or state estimation procedures need any re-initialization while rendering improved accuracy of derivative estimates due to the forward-backward smoothing feature of the kernels involved.
 </li>
 
-
+<li>
+Debarshi Patanjali Ghoshal, Nachiket Shrikant Kale, Hannah Michalska. <em><strong>Model-free control of a double inverted pendulum on a cart</strong></em>. Submitted in The 2019 American Control Conference (ACC 2019)
+<br>
+<strong>Abstract:</strong> A model-free approach is employed to swing up a planar double pendulum on a cart and stabilize it to its inverted equilibrium. A minimum-energy type adaptation of a forward-backward kernel estimator in a multivariate setting is employed to estimate the full state of an evolving surrogate local model. The full state is assumed to comprise the position variables and their velocities. The multivariate extension of the forward-backward kernel estimator has not been presented before. The nonlinear system’s complex equations are not needed. A standard nonlinear swing-up control in combination with an averaged LQR control prove successful in stabilization of the pendulum to its inverted equilibrium from the hanging equilibrium.
+</li>
 
 
 
@@ -35,13 +39,6 @@ Debarshi Patanjali Ghoshal, Shaunak Sinha, Hannah Michalska. <em><strong>Algebra
 
 </div>
 
-
-
-
-
-
-1. Debarshi Patanjali Ghoshal, Nachiket Shrikant Kale, Hannah Michalska. _**Model-free control of a double inverted pendulum on a cart**_. Submitted in The 2019 American Control Conference (ACC 2019)  
-**Abstract:** A model-free approach is employed to swing up a planar double pendulum on a cart and stabilize it to its inverted equilibrium. A minimum-energy type adaptation of a forward-backward kernel estimator in a multivariate setting is employed to estimate the full state of an evolving surrogate local model. The full state is assumed to comprise the position variables and their velocities. The multivariate extension of the forward-backward kernel estimator has not been presented before. The nonlinear system’s complex equations are not needed. A standard nonlinear swing-up control in combination with an averaged LQR control prove successful in stabilization of the pendulum to its inverted equilibrium from the hanging equilibrium.
 
 1. Abhishek Pandey, Debarshi Patanjali Ghoshal, Hannah Michalska. _**Variational approach to joint linear model and state estimation**_. The 2018 American Control Conference (ACC 2018)  
 [Full-text (PDF)](/docs/Pandey2018.pdf)  
