@@ -74,6 +74,15 @@ Debarshi Patanjali Ghoshal, Kumar Gopalakrishnan, Hannah Michalska. <em><strong>
 </li>
 <br>
 
+<li>
+Debarshi Patanjali Ghoshal, Kumar Gopalakrishnan, Hannah Michalska. <em><strong>Using invariance to extract signal from noise</strong></em>. The 2017 American Control Conference (ACC 2017)
+<br>
+<a href="../docs/Ghoshal2017.pdf">Full-text (PDF)</a>
+<br>
+<strong>Abstract:</strong> It is shown how differential invariance can be used to extract an underlying signal from its noisy measurement towards constructing a non-asymptotic state estimator for linear systems. While the model of the system is assumed known, the noise can have arbitrary characteristics. The differential invariance is rendered by the Cayley-Hamilton theorem and the system is represented in terms of a output reproducing functional on a Hilbert subspace. High accuracy, full state estimation of the system is achieved over arbitrary time intervals by way of orthogonal projection onto the subspace that represents the system invariance. Although the results are presented here primarily with reference to SISO LTI systems they readily extend to LTV systems with multiple outputs.
+</li>
+<br>
+
 
 </ol>
 </div>
@@ -81,9 +90,7 @@ Debarshi Patanjali Ghoshal, Kumar Gopalakrishnan, Hannah Michalska. <em><strong>
 
 
 
-1. Debarshi Patanjali Ghoshal, Kumar Gopalakrishnan, Hannah Michalska. _**Using invariance to extract signal from noise**_. The 2017 American Control Conference (ACC 2017)  
-[Full-text (PDF)](/docs/Ghoshal2017.pdf)  
-**Abstract:** It is shown how differential invariance can be used to extract an underlying signal from its noisy measurement towards constructing a non-asymptotic state estimator for linear systems. While the model of the system is assumed known, the noise can have arbitrary characteristics. The differential invariance is rendered by the Cayley-Hamilton theorem and the system is represented in terms of a output reproducing functional on a Hilbert subspace. High accuracy, full state estimation of the system is achieved over arbitrary time intervals by way of orthogonal projection onto the subspace that represents the system invariance. Although the results are presented here primarily with reference to SISO LTI systems they readily extend to LTV systems with multiple outputs.
+
 
 1. Debarshi Patanjali Ghoshal, Niladri Das, Samrat Dutta, Laxmidhar Behera. _**Robot learns from human teacher through modified kinesthetic teaching**_. International conference on Advances in Control and Optimization of Dynamic Systems (ACODS 2014)  
 [Full-text (PDF)](/docs/DPG_ACODS.pdf)  
