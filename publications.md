@@ -92,6 +92,15 @@ Debarshi Patanjali Ghoshal, Niladri Das, Samrat Dutta, Laxmidhar Behera. <em><st
 </li>
 <br>
 
+<li>
+Debarshi Patanjali Ghoshal, Sudeshna Das Gupta. <em><strong>Robust controller design for boiler burning process using RBode plot</strong></em>. International Journal of Electrical, Electronics and Computer Engineering 
+<br>
+<a href="../docs/DPG_IET.pdf">Full-text (PDF)</a>
+<br>
+<strong>Abstract:</strong> This paper presents a robust controller design for boiler burning process using Robust Bode (RBode) plot. The boiler plant is modeled as a first-order dynamic lag with time-delay. The designed controller is compared with a traditional Cohen-Coon controller. The significance of using RBode plot method in case of time- delay systems is twofold: (i) RBode method has not been applied on time-delay systems previously. Through this paper, applicability of RBode technique with time-delay systems is established, which, in turn, widens the scope of application of this technique. (ii) Successful implementation of RBode method on time-delay systems indicates its potential in case of higher order systems (as many practical higher order systems may be approximated as a lower order system with time delay).
+</li>
+<br>
+
 
 </ol>
 </div>
@@ -100,11 +109,6 @@ Debarshi Patanjali Ghoshal, Niladri Das, Samrat Dutta, Laxmidhar Behera. <em><st
 
 
 
-
-
-1. Debarshi Patanjali Ghoshal, Sudeshna Das Gupta. _**Robust controller design for boiler burning process using RBode plot**_. International Journal of Electrical, Electronics and Computer Engineering  
-[Full-text (PDF)](/docs/DPG_IET.pdf)  
-**Abstract:** This paper presents a robust controller design for boiler burning process using Robust Bode (RBode) plot. The boiler plant is modeled as a first-order dynamic lag with time-delay. The designed controller is compared with a traditional Cohen-Coon controller. The significance of using RBode plot method in case of time- delay systems is twofold: (i) RBode method has not been applied on time-delay systems previously. Through this paper, applicability of RBode technique with time-delay systems is established, which, in turn, widens the scope of application of this technique. (ii) Successful implementation of RBode method on time-delay systems indicates its potential in case of higher order systems (as many practical higher order systems may be approximated as a lower order system with time delay).
 
 1. Ankush Roy, Debarshi Patanjali Ghoshal. _**Number plate recognition for use in different countries using an improved segmentation**_. IEEE Technically Sponsored National Conference on Emerging Trends and Applications in Computer Science \(NCETACS 2011\)  
 \[Awarded **Best\-Paper** of the Conference\]  
