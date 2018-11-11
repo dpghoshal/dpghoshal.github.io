@@ -39,6 +39,15 @@ Abhishek Pandey, Debarshi Patanjali Ghoshal, Hannah Michalska. <em><strong>Varia
 </li>
 <br>
 
+<li>
+Deepak Sridhar, Debarshi Patanjali Ghoshal, Hannah Michalska. <em><strong>B-splines in joint parameter and state estimation in linear time-varying systems</strong></em>. The 2018 American Control Conference (ACC 2018)
+<br>
+<a href="../docs/Sridhar2018a.pdf">Full-text (PDF)</a>
+<br>
+<strong>Abstract:</strong> A kernel functional representation of linear time-varying systems is employed in conjunction with B-spline functional approximation techniques to construct non-asymptotic state and parameter estimators for LTV systems. Total observability of the estimated system must be assumed. Practical identifiability conditions for parametric estimation are also stated. In the absence of output measurement noise the observer provides almost exact reconstruction of the system state and delivers high fidelity functional estimates of the time varying system parameters. It also shares the usual superior features of algebraic observers such as independence of the initial conditions of the system and good noise attenuation properties. Other advantages of the kernel and B-spline based identification of linear time-varying systems are elucidated.
+</li>
+<br>
+
 
 
 
@@ -51,10 +60,6 @@ Abhishek Pandey, Debarshi Patanjali Ghoshal, Hannah Michalska. <em><strong>Varia
 
 </div>
 
-
-1. Deepak Sridhar, Debarshi Patanjali Ghoshal, Hannah Michalska. _**B-splines in joint parameter and state estimation in linear time-varying systems**_. The 2018 American Control Conference (ACC 2018)  
-[Full-text (PDF)](/docs/Sridhar2018a.pdf)  
-**Abstract:** A kernel functional representation of linear time-varying systems is employed in conjunction with B-spline functional approximation techniques to construct non-asymptotic state and parameter estimators for LTV systems. Total observability of the estimated system must be assumed. Practical identifiability conditions for parametric estimation are also stated. In the absence of output measurement noise the observer provides almost exact reconstruction of the system state and delivers high fidelity functional estimates of the time varying system parameters. It also shares the usual superior features of algebraic observers such as independence of the initial conditions of the system and good noise attenuation properties. Other advantages of the kernel and B-spline based identification of linear time-varying systems are elucidated.
 
 1. Debarshi Patanjali Ghoshal, Hannah Michalska. _**Double-sided kernel observer for linear time-varying systems**_. IEEE Conference on Control Technology and Applications (CCTA 2017)  
 [Full-text (PDF)](/docs/Ghoshal2017c.pdf)  
