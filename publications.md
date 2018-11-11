@@ -83,6 +83,15 @@ Debarshi Patanjali Ghoshal, Kumar Gopalakrishnan, Hannah Michalska. <em><strong>
 </li>
 <br>
 
+<li>
+Debarshi Patanjali Ghoshal, Niladri Das, Samrat Dutta, Laxmidhar Behera. <em><strong>Robot learns from human teacher through modified kinesthetic teaching</strong></em>. International conference on Advances in Control and Optimization of Dynamic Systems (ACODS 2014)
+<br>
+<a href="../docs/DPG_ACODS.pdf">Full-text (PDF)</a>
+<br>
+<strong>Abstract:</strong> Teaching new motor tasks to robots through physical interactions is an important goal for both robotics and machine learning. Most monolithic machine learning approaches fail to scale when going beyond basic skills. In this paper we present a simple framework for teaching the robot (to play tennis) through direct physical interaction with a human teacher (i.e. Kinesthetic Teaching). Current popular established method of kinesthetic teaching generally uses a two-stage approach: First, a library of motor primitives is generated through direct physical manipulation of the robot. In second stage, a reinforced learning ("reward" stage) is implemented to dynamically adjust the policy of choosing from motor primitive library. In this paper, we show that by proper modification of the first stage of Kinesthetic Teaching and incorporating the domain experience of the human teacher, we can remove the necessity of the second stage. This approach has multiple advantages: (i) We can make the whole training process much simpler. This would go a long way in making our training algorithm scalable (for much increased number of basic moves, etc). (ii) One potential problem with the "reward" learning phase is that there may be subjective difference of what is a "good" shot from the kinesthetic teaching and from the bystander viewpoint (later in "reward" stage). Even a little difference in this regard will result in a confusing feedback ("reward"), and hence it would be difficult to correctly figure out which library training samples should be reassigned what weight values. Our approach eliminates this problem altogether.
+</li>
+<br>
+
 
 </ol>
 </div>
@@ -92,9 +101,6 @@ Debarshi Patanjali Ghoshal, Kumar Gopalakrishnan, Hannah Michalska. <em><strong>
 
 
 
-1. Debarshi Patanjali Ghoshal, Niladri Das, Samrat Dutta, Laxmidhar Behera. _**Robot learns from human teacher through modified kinesthetic teaching**_. International conference on Advances in Control and Optimization of Dynamic Systems (ACODS 2014)  
-[Full-text (PDF)](/docs/DPG_ACODS.pdf)  
-**Abstract:** Teaching new motor tasks to robots through physical interactions is an important goal for both robotics and machine learning. Most monolithic machine learning approaches fail to scale when going beyond basic skills. In this paper we present a simple framework for teaching the robot (to play tennis) through direct physical interaction with a human teacher (i.e. Kinesthetic Teaching). Current popular established method of kinesthetic teaching generally uses a two-stage approach: First, a library of motor primitives is generated through direct physical manipulation of the robot. In second stage, a reinforced learning ("reward" stage) is implemented to dynamically adjust the policy of choosing from motor primitive library. In this paper, we show that by proper modification of the first stage of Kinesthetic Teaching and incorporating the domain experience of the human teacher, we can remove the necessity of the second stage. This approach has multiple advantages: (i) We can make the whole training process much simpler. This would go a long way in making our training algorithm scalable (for much increased number of basic moves, etc). (ii) One potential problem with the "reward" learning phase is that there may be subjective difference of what is a "good" shot from the kinesthetic teaching and from the bystander viewpoint (later in "reward" stage). Even a little difference in this regard will result in a confusing feedback ("reward"), and hence it would be difficult to correctly figure out which library training samples should be reassigned what weight values. Our approach eliminates this problem altogether.
 
 1. Debarshi Patanjali Ghoshal, Sudeshna Das Gupta. _**Robust controller design for boiler burning process using RBode plot**_. International Journal of Electrical, Electronics and Computer Engineering  
 [Full-text (PDF)](/docs/DPG_IET.pdf)  
