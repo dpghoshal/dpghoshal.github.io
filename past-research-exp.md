@@ -53,19 +53,27 @@ SUPERVISOR: Dr. Anjan Rakshit
 </li>
 <br>
 
-
+<li>
+<strong>Research Project:</strong>  
+<br>
+<em><strong>Robust Controller Design for Boiler Burning Process using RBode Plot</strong></em>
+<br>
+SUPERVISOR: Dr. Smita Sadhu  
+<br>
+(Professor, Department of Electrical Engineering, Jadavpur University.)  
+<br>
+<strong>Description:</strong> Robust Bode (RBode) plot was used to design a robust controller for boiler burning process. The boiler plant was modeled as a first-order dynamic lag with time-delay. The designed controller was compared with a traditional Cohen-Coon controller. The significance of using RBode plot method in case of time-delay systems is twofold: (i) RBode method had not been applied on time-delay systems previously. Through this work, applicability of RBode technique with time-delay systems was established, which, in turn, widened the scope of application of this technique. (ii) Successful implementation of RBode method on time-delay systems indicated its potential in case of higher order systems (as many practical higher order systems may be approximated as a lower order system with time delay).
+<br>
+<strong>The work was published in an international journal.</strong>
+</li>
+<br>
 
 
 </ol>
 </div>
   
 
-1. **Research Project:**  
-_**Robust Controller Design for Boiler Burning Process using RBode Plot**_  
-SUPERVISOR: Dr. Smita Sadhu  
-(Professor, Department of Electrical Engineering, Jadavpur University.)  
-**Description:** Robust Bode (RBode) plot was used to design a robust controller for boiler burning process. The boiler plant was modeled as a first-order dynamic lag with time-delay. The designed controller was compared with a traditional Cohen-Coon controller. The significance of using RBode plot method in case of time-delay systems is twofold: (i) RBode method had not been applied on time-delay systems previously. Through this work, applicability of RBode technique with time-delay systems was established, which, in turn, widened the scope of application of this technique. (ii) Successful implementation of RBode method on time-delay systems indicated its potential in case of higher order systems (as many practical higher order systems may be approximated as a lower order system with time delay).  
-_The work was published in an international journal._
+
 
 1. **Final\-year Elective Project** at **Department of Electrical Engineering, Jadavpur University:**
 _**Internal Model Control**_  
