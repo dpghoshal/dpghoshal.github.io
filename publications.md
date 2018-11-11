@@ -57,7 +57,7 @@ Debarshi Patanjali Ghoshal, Hannah Michalska. <em><strong>Double-sided kernel ob
 <br>
 
 <li>
-Debarshi Patanjali Ghoshal, Kumar Gopalakrishnan, Hannah Michalska. <em><strong>Kernel-based adaptive multiple model target tracking<em><strong>. IEEE Conference on Control Technology and Applications (CCTA 2017)
+Debarshi Patanjali Ghoshal, Kumar Gopalakrishnan, Hannah Michalska. <em><strong>Kernel-based adaptive multiple model target tracking</strong></em>. IEEE Conference on Control Technology and Applications (CCTA 2017)
 <br>
 <a href="../docs/Ghoshal2017d.pdf">Full-text (PDF)</a>
 <br>
