@@ -5,12 +5,29 @@ permalink: /past-research-exp/
 
 ## Past Research Experience
 
-1. **M.Tech thesis** at **Department of Electrical Engineering, Indian Institute of Technology Kanpur:**  
-_**Robot Learning from a Human Expert through Modified Kinesthetic Teaching**_  
+<div style="text-align: justify"> 
+<ol>
+
+<li>
+<strong>M.Tech thesis</strong> at <strong>Department of Electrical Engineering, Indian Institute of Technology Kanpur:</strong> <em><strong>Robot Learning from a Human Expert through Modified Kinesthetic Teaching</strong></em>
+<br>
 SUPERVISOR: Dr. Laxmidhar Behera  
+<br>
 (Professor, Department of Electrical Engineering, IITK.)  
-**Description:** Teaching new motor tasks to robots through physical interactions is an important goal for both robotics and machine learning. Most monolithic machine learning approaches fail to scale when going beyond basic skills. In this work we present a simple framework for teaching the robot (to hit the ball) through direct physical interaction with a human teacher (i.e. Kinesthetic Teaching). Current popular established method of kinesthetic teaching generally uses a two-stage approach: First, a library of motor primitives is generated through direct physical manipulation of the robot. In second stage, a reinforced learning ("reward" stage) is implemented to dynamically adjust the policy of choosing from motor primitive library. In this work, we modify the Kinesthetic Teaching by incorporating the domain experience of the human teacher through repeated teachings, instead of relying on the "reward" stage. This approach has advantage: One potential problem with the "reward" learning phase is that there may be subjective difference of what is a "good" shot from the kinesthetic teaching and from the bystander viewpoint (later in "reward" stage). Even a little difference in this regard will result in a confusing feedback ("reward"), and hence it would be difficult to correctly figure out which library training samples should be reassigned what weight values. Our approach eliminates this problem altogether.  
-_The work has been published in an international conference._
+<br>
+<strong>Description:</strong> Teaching new motor tasks to robots through physical interactions is an important goal for both robotics and machine learning. Most monolithic machine learning approaches fail to scale when going beyond basic skills. In this work we present a simple framework for teaching the robot (to hit the ball) through direct physical interaction with a human teacher (i.e. Kinesthetic Teaching). Current popular established method of kinesthetic teaching generally uses a two-stage approach: First, a library of motor primitives is generated through direct physical manipulation of the robot. In second stage, a reinforced learning ("reward" stage) is implemented to dynamically adjust the policy of choosing from motor primitive library. In this work, we modify the Kinesthetic Teaching by incorporating the domain experience of the human teacher through repeated teachings, instead of relying on the "reward" stage. This approach has advantage: One potential problem with the "reward" learning phase is that there may be subjective difference of what is a "good" shot from the kinesthetic teaching and from the bystander viewpoint (later in "reward" stage). Even a little difference in this regard will result in a confusing feedback ("reward"), and hence it would be difficult to correctly figure out which library training samples should be reassigned what weight values. Our approach eliminates this problem altogether.
+<br>
+<em>The work has been published in an international conference.</em>
+</li>
+<br>
+
+
+
+
+
+</ol>
+</div>
+  
 
 1. **Summer Internship** at **Indian Institute of Science, Bangalore:**  
 _**Waypoint Navigation System for Unmanned Aerial Vehicles (UAV)**_  
