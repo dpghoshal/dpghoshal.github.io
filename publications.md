@@ -33,7 +33,7 @@ Debarshi Patanjali Ghoshal, Nachiket Shrikant Kale, Hannah Michalska. <em><stron
 <li>
 Abhishek Pandey, Debarshi Patanjali Ghoshal, Hannah Michalska. <em><strong>Variational approach to joint linear model and state estimation</strong></em>. The 2018 American Control Conference (ACC 2018)
 <br>
-<a href="docs/Pandey2018.pdf">Full-text (PDF)</a>
+<a href="../docs/Pandey2018.pdf">Full-text (PDF)</a>
 <br>
 <strong>Abstract:</strong> An approach similar to variational data assimilation is presented for simultaneous model and state estimation of linear systems from output measurement perturbed by large noise of unknown characteristic. Estimation can be carried out over time windows of arbitrary length and is based on a special kernel representation of a hypothetical linear model. A functional criterion is employed to assess the distance of a model to a data cloud. The reproducing kernel representation of the model is particularly advantageous as it permits a Hilbert subspace representation of the model sought. The approach is similar to variational data assimilation as it relies on the adjoint method for calculation of the gradient of the cost functional involved.
 </li>
