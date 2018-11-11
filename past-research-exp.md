@@ -6,7 +6,7 @@ permalink: /past-research-exp/
 ## Past Research Experience
 
 <div style="text-align: justify"> 
-<ol>
+<ul>
 
 <li>
 <strong>M.Tech thesis</strong> at <strong>Department of Electrical Engineering, Indian Institute of Technology Kanpur:</strong>
@@ -80,7 +80,7 @@ SUPERVISOR: Dr. Smita Sadhu
 <br>
 
 
-</ol>
+</ul>
 </div>
   
 
