@@ -11,6 +11,8 @@ permalink: /publications/
 <li>
 Debarshi Patanjali Ghoshal, Hannah Michalska. <em><strong>Finite-interval kernel-based identification and state estimation for LTI systems with noisy output data</strong></em>. The 2019 American Control Conference (ACC 2019)
 <br>
+<a href="../docs/Ghoshal2019.pdf">Full-text (PDF)</a>
+<br>
 <strong>Abstract:</strong> This note extends previous results pertaining to algebraic state and parameter estimation of linear systems based on a special construction of kernel system representations that incorporate system differential invariants. Main results include explicit expressions for the kernel functions for single-input, single-output LTI systems of arbitrary order. A recursive regression type algorithm is also proposed for the purpose of joint system identification and finite interval filtering. As compared with previous results the proposed non-asymptotic estimation method proves remarkably robust to Gaussian noise in output measurements. The approach has been shown to extend to linear time-varying and linear parameter-varying systems in a multivariate setting. The idea of system-related kernels can further be employed to enhance convergence properties of moving-window and minimum energy nonlinear filtering methods.
 </li>
 <br>
