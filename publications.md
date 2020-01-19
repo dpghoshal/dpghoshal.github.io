@@ -18,6 +18,15 @@ Debarshi Patanjali Ghoshal, Hannah Michalska. <em><strong>Finite-interval kernel
 <br>
 
 <li>
+Debarshi Patanjali Ghoshal, Shaunak Sinha, Hannah Michalska. <em><strong>Algebraic nonlinear identification and output tracking control of synchronous generator using differential flatness</strong></em>. The 23rd International Conference on System Theory, Control and Computing (ICSTCC 2019)
+<br>
+<a href="../docs/Ghoshal2019b.pdf">Full-text (PDF)</a>
+<br>
+<strong>Abstract:</strong> A kernel-based approach is explored to enhance robustness of flatness-based nonlinear tracking control design for a synchronous generator machine. The design involves full system identification and nonlinear filtering of the system state, to permit effective implementation of a nonlinear controller based on differential flatness of the model. The difficulty associated with robust implementations of flatness-based controllers resides in the necessity of fast and accurate estimation of higher order derivatives of the noisy, observed flat output. The recently developed forward-backward kernel estimation methods, lend themselves powerfully for this task. Two LTI surrogate models are used with the nonlinear model of the machine to serve identification and filtering of the state, and are switched seamlessly to generate persistent excitation for the purpose of a complex nonlinear identification of all the system parameters. The approach does not require a separate start-up phase for identification purposes. The need for on-line adaptive identification and associated re-tuning of the controller is detected and implemented during full operation of the machine. Neither the identification nor the state estimation procedures need any re-initialization while rendering improved accuracy of derivative estimates due to the forward-backward smoothing feature of the kernels involved.
+</li>
+<br>
+
+<li>
 Abhishek Pandey, Debarshi Patanjali Ghoshal, Hannah Michalska. <em><strong>Variational approach to joint linear model and state estimation</strong></em>. The 2018 American Control Conference (ACC 2018)
 <br>
 <a href="../docs/Pandey2018.pdf">Full-text (PDF)</a>
