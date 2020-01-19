@@ -6,7 +6,7 @@ permalink: /publications/
 ## Publications
 
 <div style="text-align: justify"> 
-<ol>
+<ul>
 
 <li>
 Debarshi Patanjali Ghoshal, Hannah Michalska. <em><strong>Finite-interval kernel-based identification and state estimation for LTI systems with noisy output data</strong></em>. The 2019 American Control Conference (ACC 2019)
@@ -101,7 +101,7 @@ Ankush Roy, Debarshi Patanjali Ghoshal. <em><strong>Number plate recognition for
 <br>
 
 
-</ol>
+</ul>
 </div>
 
 
