@@ -14,7 +14,7 @@ I am pursuing my PhD in the <a href="https://www.mcgill.ca/ece/">Department of E
 </p>   
 
 <p>
-Currently I am also working at <a href="https://www.aerial.ai"><strong>Aerial Technologies</strong></a> as a Research Scientist Intern, where I apply Feature Engineering in Artificial Intelligence/Machine Learning to solve practical problems. My research internship is supported by the Natural Sciences and Engineering Research Council of Canada (<a href="http://www.nserc-crsng.gc.ca/index_eng.asp">NSERC</a>) Engage grant.
+Currently I am also working at <a href="https://www.aerial.ai"><strong>Aerial Technologies</strong></a> as a Research Scientist Intern, where I apply Feature Engineering in Artificial Intelligence/Machine Learning to solve practical problems.
 </p>
 
 <p>
