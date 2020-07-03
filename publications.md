@@ -9,7 +9,9 @@ permalink: /publications/
 <ul>
 
 <li>
-Debarshi Patanjali Ghoshal, Hannah Michalska. <em><strong>Finite interval estimation of LTI systems using differential invariance, instrumental variables, and covariance weighting</strong></em>. Accepted in the 2020 American Control Conference (ACC 2020)
+Debarshi Patanjali Ghoshal, Hannah Michalska. <em><strong>Finite interval estimation of LTI systems using differential invariance, instrumental variables, and covariance weighting</strong></em>. The 2020 American Control Conference (ACC 2020)
+<br>
+<a href="../docs/Ghoshal2020.pdf">Full-text (PDF)</a>
 <br>
 <strong>Abstract:</strong> It is shown how the kernel approach to joint parameter and state estimation can be improved to handle large measurement noise. High accuracy of estimation results from combining the powers of the kernel representation of the differential invariance in the system, a feasible recursive version of the generalized least squares with covariance weighting to eliminate regression dilution and suitable choices of instrumental variables to compensate for the error-in-the-variable in the stochastic regression formulation.
 </li>
