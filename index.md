@@ -14,7 +14,7 @@ I am pursuing my PhD in the <a href="https://www.mcgill.ca/ece/">Department of E
 </p>   
 
 <p>
-For the last couple of years, I have also been working at <a href="https://www.aerial.ai"><strong>Aerial Technologies</strong></a> - first as a Research Scientist Intern, then as an independent Research Scientist Consultant - applying Feature Engineering in Artificial Intelligence/Machine Learning to solve practical problems.
+For the last couple of years, I have also been working at <a href="https://www.aerial.ai"><strong>Aerial Technologies</strong></a> - first as a Research Scientist Intern, then as an independent Research Scientist Consultant – applying Feature Engineering in Artificial Intelligence/Machine Learning to solve practical problems.
 </p>
 
 <p>
