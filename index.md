@@ -29,7 +29,7 @@ I received my Bachelor's degree in Electrical Engineering from <a href="http://w
 
 
 Here are links to my:  
-* [Curriculum Vitae](/docs/dpg_cv_.pdf)  
+* [Curriculum Vitae](/docs/dpg_cv.pdf)  
 * [Publications](publications)  
 * [Past Research Experience](past-research-exp)
 * [Teaching Experience](teaching-exp)
