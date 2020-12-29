@@ -132,7 +132,7 @@ Ankush Roy, Debarshi Patanjali Ghoshal. <em><strong>Number plate recognition for
 <li>
 Debarshi Patanjali Ghoshal, Hannah Michalska. <em><strong>Forward-backward kernel-based state and parameter estimation for linear systems of arbitrary order</strong></em>. arXiv:2012.09033
 <br>
-<a href="https://arxiv.org/abs/2012.09033">See publication</a>
+<a href="https://arxiv.org/abs/2012.09033">See preprint</a>
 <br>
 <strong>Abstract:</strong> Previous results pertaining to algebraic state and parameter estimation of linear systems based on a special construction of a forward-backward kernel representation of linear differential invariants are extended to handle large noise in output measurement. Explicit expressions for the kernel functions for single-input, single-output (SISO) linear time-invariant (LTI) systems of arbitrary order are first stated and proved. A two-stage solution of the estimation problem is proposed next. The parameter estimation sub-problem, which is the task of the first stage, is solved by way of stochastic regression. The parameter estimation method presented in earlier publications is enhanced using multiple regression. The regression model does not satisfy the assumptions of the Gauss-Markov theorem in that the random regressor is heteroskedastic. This does not impede achieving high accuracy of estimation. A recursive version of a feasible generalized least squares with covariance weighting is employed to attenuate adverse effects due to heteroskedasticity. The output of the system and its time derivatives are reconstructed smoothly in the second stage of the approach by way of projection, while minimizing a mean square criterion.
 </li>
