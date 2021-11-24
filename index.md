@@ -14,7 +14,7 @@ I completed my PhD in Fall 2021 from the <a href="https://www.mcgill.ca/ece/">De
 </p>   
 
 <p>
-From 2018 to 2020, I also worked at <a href="https://www.aerial.ai"><strong>Aerial Technologies</strong></a> — first as a Research Scientist Intern, then as an independent Research Scientist Consultant — where I applied Feature Engineering in Artificial Intelligence/Machine Learning to solve practical problems.
+From 2018 to 2020, I also worked part-time at <a href="https://www.aerial.ai"><strong>Aerial Technologies</strong></a> — first as a Research Scientist Intern, then as an independent Research Scientist Consultant — where I applied Feature Engineering in Artificial Intelligence/Machine Learning to solve practical problems.
 </p>
 
 <p>
