@@ -35,5 +35,5 @@ Here are links to my:
 * [Teaching Experience](teaching-exp)
 
 Get in touch:  
-[Email](mailto:debarshi.ghoshal@mail.mcgill.ca)  
+[Email](mailto:ghoshaldp@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/dpghoshal)
