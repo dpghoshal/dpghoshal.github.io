@@ -10,6 +10,10 @@ layout: default
 <div style="text-align: justify">
 
 <p>
+Currently I volunteer as a Teacher at <a href="https://www.teachforindia.org">Teach For India</a> and as a Mentor at <a href="https://claylab.education">Claylab Education Foundation</a>. 
+</p>
+
+<p>
 I completed my PhD in Fall 2021 from the <a href="https://www.mcgill.ca/ece/">Department of Electrical and Computer Engineering</a> at <a href="https://www.mcgill.ca/"><strong>McGill University</strong></a>. My thesis topic was “Finite-interval estimation using double-sided kernels and differential invariants”. My PhD was funded by the <a href="https://mcgill.ca/engineering/students/graduate-students/funding/meda/named-fellowships/trottier">Lorne Trottier Engineering Graduate Fellowship</a>, the <a href="https://mcgill.ca/engineering/students/graduate-students/funding/meda/named-fellowships/geoff-hyland">Geoff Hyland Fellowship in Engineering</a>, and the <a href="https://www.mcgill.ca/engineering/students/graduate-students/funding/gef">Graduate Excellence Fellowship</a> through the <a href="https://www.mcgill.ca/engineering/students/graduate-students/funding/meda">McGill Engineering Doctoral Award</a>. During my PhD, I published nine <a href="publications">peer-reviewed papers</a> in some of the leading conferences such as American Control Conference (ACC), World Congress of the International Federation of Automatic Control (IFAC), etc. I also mentored a group of Master's students, resulting in multiple collaborative publications.
 </p>   
 
