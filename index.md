@@ -10,7 +10,7 @@ layout: default
 <div style="text-align: justify">
 
 <p>
-Currently I volunteer as a Teacher at <a href="https://www.teachforindia.org">Teach For India</a> and as a Mentor at <a href="https://claylab.education">Claylab Education Foundation</a>. 
+Currently I volunteer as a Teacher at <a href="https://www.teachforindia.org">Teach For India</a>. 
 </p>
 
 <p>
