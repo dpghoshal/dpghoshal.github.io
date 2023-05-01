@@ -36,7 +36,7 @@ Here are links to my:
 * [Academic Curriculum Vitae](/docs/dpg_cv.pdf)  
 * [Selected Publications](publications)  
 * [Past Research Experience](past-research-exp)
-* [Teaching Experience](teaching-exp)
+* [Past Teaching Experience](teaching-exp)
 
 Get in touch:  
 [Email](mailto:ghoshaldp@gmail.com)  
