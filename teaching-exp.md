@@ -3,7 +3,7 @@ layout: default
 permalink: /teaching-exp/
 ---
 
-## Teaching Experience
+## Past Teaching Experience
 
 <div style="text-align: justify">
 <ul>
