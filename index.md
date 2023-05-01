@@ -10,7 +10,7 @@ layout: default
 <div style="text-align: justify">
 
 <p>
-Currently I work as a <a href="https://www.teachforindia.org/fellowship">Fellow</a> at <a href="https://www.teachforindia.org">Teach For India</a>. 
+Currently I work as a <a href="https://www.teachforindia.org/fellowship">Fellow</a> at <a href="https://www.teachforindia.org"><strong>Teach For India</strong></a>. 
 </p>
 
 <p>
