@@ -42,4 +42,4 @@ Here are links to my:
 
 Get in touch:  
 [Email](mailto:ghoshaldp@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/dpghoshal)
+<!-- [LinkedIn](https://www.linkedin.com/in/dpghoshal) -->
